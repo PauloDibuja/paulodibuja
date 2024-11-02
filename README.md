@@ -13,18 +13,18 @@
 ¡Bienvenido! Me llamo Paulo, estudiante de Ingeniería Civil Informática y soy un desarrollador de videojuegos indie con un gran interés en compartir mis conocimientos y proyectos con la comunidad. Mi enfoque principal es crear juegos en plataformas como Unity y Godot, además de desarrollar herramientas y proyectos en Python para facilitar el proceso creativo.
 
 ## 🚀 Sobre Mí
-- 💻 Desarrollo: Trabajo con C#, Python, y TypeScript, entre otros lenguajes. También tengo experiencia en bases de datos con Oracle APEX y en diseño de motion graphics para videojuegos.
+- 💻 Desarrollo: Trabajo con C#, Python, y TypeScript, entre otros lenguajes. También he estudiado sobre bases de datos con Oracle APEX y diseño de motion graphics para videojuegos.
 - 🎨 Creatividad y Animación: Aunque me dedico al desarrollo de videojuegos, empecé en el mundo digital como animador. Hoy, mi experiencia en motion graphics y edición de video me permite crear contenido visual atractivo.
 - 📹 Creador de Contenido en YouTube: En mi canal de YouTube, comparto tutoriales, consejos y experiencias sobre desarrollo de videojuegos, programación y tecnología. Aquí trato de hacer que el proceso de creación de videojuegos sea accesible y emocionante para todos.
 ## 🛠️ Habilidades Técnicas
 - Lenguajes: Python, C#, TypeScript
 - Motores de Juego: Unity, Godot
-- Bases de Datos: Oracle APEX
+- Bases de Datos: Oracle APEX (estudiando)
 - Herramientas Multimedia: Blender, herramientas de edición de video y motion graphics
 ## 🌱 Actualmente Estoy...
-- Desarrollando un software en Python para automatizar animaciones en 2D con ffmpeg.
+- Desarrollando un software en Python para automatizar animaciones en 2D con ffmpeg. (veremos si funciona xd)
 - Experimentando con conexiones de bases de datos en Oracle APEX para mejorar la integración en proyectos de desarrollo.
-- Compartiendo contenido sobre Linux y su viabilidad como plataforma para el desarrollo de videojuegos.
+- Compartiendo contenido sobre Linux y su viabilidad como plataforma para el desarrollo de videojuegos. (estoy cocinando video)
 ---
 
 ## 📽️ Algunos vídeos de YouTube
