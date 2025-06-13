@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy PauloDibuja
-## 🎮 Desarrollador de Videojuegos | Creador de Contenido | Apasionado de la Tecnología
+## 🎮 Desarrollador de Videojuegos | Creador de Contenido 
 
 [![YouTube](https://img.shields.io/badge/YouTube-PauloDibuja-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/c/PauloDibuja)
 [![Twitter](https://img.shields.io/badge/X/Twitter-PauloDibuja-0062f0?style=flat&logo=x&logoColor=white&labelColor=101010)](https://x.com/PauloDibuja)
